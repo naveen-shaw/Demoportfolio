@@ -46,19 +46,18 @@ body {
     border-radius: 100%;
 }
 .first-skill {
-    width: 50%;
+    width: 400px;
     margin: 40px auto 40px;
     text-align: left;
 }
 .second-skill {
-    width: 50%;
+    width: 400px;
     margin:  auto;
     text-align: left;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 .first-skill-img {
     width: 9rem;
-    padding-bottom: 30px;
     float: left;
 }
 .second-skill-img {
